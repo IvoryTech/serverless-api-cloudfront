@@ -1,0 +1,34 @@
+{
+  "name": "@ivorytech/serverless-api-cloudfront",
+  "version": "0.9.22",
+  "engines": {
+    "node": ">=6.4"
+  },
+  "description": "CloudFront distribution in front of your API Gateway",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivorytech/serverless-api-cloudfront.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "serverless",
+    "serverless plugin",
+    "api gateway",
+    "cloudfront",
+    "api gateway",
+    "lambda",
+    "aws",
+    "aws lambda",
+    "amazon web services",
+    "serverless.com"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "2.4.2",
+    "js-yaml": "3.13.1",
+    "lodash": "4.17.21"
+  }
+}
